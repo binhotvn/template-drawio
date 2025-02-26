@@ -84,7 +84,7 @@ def save_processed_file(content, output_file):
 
 def create_files_from_primary():
     all_entries = []
-
+    all_entries += json.loads(ALL_DATA)
     for category in color_mapping.keys():
         if category == "Primary":
             continue
@@ -92,10 +92,10 @@ def create_files_from_primary():
 
         updated_content = process_file(category)
         output_file = f"{category.lower()}.drawio"
-        save_processed_file(updated_content, output_file)
+        save_processed_file(updated_content, "./Library/Temp/" + output_file)
 
         all_entries += updated_content
-    all_entries += json.loads(ALL_DATA)
+
     save_processed_file(all_entries, "all.drawio")
 
 
