@@ -70,7 +70,7 @@
     "title": "Dash Shape Rectangle\u00a0"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Text\" style=\"rounded=1;whiteSpace=wrap;spacing=5;arcSize=50;fontFamily=Inter;textShadow=0;html=1;glass=0;shadow=0;perimeterSpacing=5;strokeWidth=3;strokeColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=1;fontSize=14;fillColor=light-dark(#18D357,#EDEDED);fontColor=#FFFFFF;gradientColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"31\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Text\" style=\"rounded=1;whiteSpace=wrap;spacing=5;arcSize=50;fontFamily=Inter;textShadow=0;html=1;glass=0;shadow=0;perimeterSpacing=5;strokeWidth=3;strokeColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=1;fontSize=14;fillColor=light-dark(#18D357,#EDEDED);fontColor=#FFFFFF;gradientColor=none;pointerEvents=0;align=center;verticalAlign=middle;labelBackgroundColor=#18D357;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.2737367544323206e-13\" width=\"120\" height=\"31\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 31.000000000000004,
     "aspect": "fixed",
