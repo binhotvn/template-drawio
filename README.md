@@ -27,6 +27,6 @@ To get started with DRAWLIB, follow these steps:
 Paste it into Draw.io then select Rectangle -> Set as Default Style, Line -> Set as Default Style Audre
 ![Example](image.png)
 
-Open this library to import all the rectangle and elements
+Open this library to import all the rectangle and elements `all.drawio` -> Library
 ![Example](image2.png)
 
