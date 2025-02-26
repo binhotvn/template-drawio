@@ -42,6 +42,13 @@
     "title": "Line"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;html=1;rounded=1;shadow=0;strokeColor=light-dark(#3761f7, #ededed);strokeWidth=2;align=center;verticalAlign=middle;spacing=5;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=elbowEdgeStyle;endSize=4;flowAnimation=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;elbow=vertical;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"5\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" y=\"5\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjIuNzIxODI1MTIyODMzMjUyIDIuMzc4Njc5OTkwNzY4NDMyNiAxOC41NTYzNTA3MDgwMDc4MTIgMTguNTU2MzQ5NzU0MzMzNDk2IiBoZWlnaHQ9IjE4LjU1NjM0OTc1NDMzMzQ5NiIgd2lkdGg9IjE4LjU1NjM1MDcwODAwNzgxMiI+JiN4YTs8cmVjdCBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZT0iIzM3NjFGNyIgZmlsbD0iI0IyQ0RGRiIgdHJhbnNmb3JtPSJyb3RhdGUoNDUgMTIgMy44Nzg2OCkiIGhlaWdodD0iMTEiIHdpZHRoPSIxMSIgeT0iMy44Nzg2OCIgeD0iMTIiLz4mI3hhOzwvc3ZnPg==;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"10\" height=\"10\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-8\" y=\"-5\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 10,
+    "aspect": "fixed",
+    "title": "Line with Branch"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#3761f7, #ededed);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=elbowEdgeStyle;sourcePerimeterSpacing=-6;spacing=5;targetPerimeterSpacing=-4;flowAnimation=0;shadow=0;startArrow=oval;startFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"64\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"73\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 73.00000000000007,
     "h": 63.99999999999986,
